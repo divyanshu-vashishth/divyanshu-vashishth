@@ -1,4 +1,4 @@
-<img src="./hello_there.webp" alt='haha'>🖐️</img>
+<img src="./hello_there.webp" alt='haha'/>
 
 <a href="https://twitter.com/ashdev_me"><img src="https://img.shields.io/twitter/follow/ashdev_me?label=Twitter&style=social" alt="Twitter"></a>
 <!--
