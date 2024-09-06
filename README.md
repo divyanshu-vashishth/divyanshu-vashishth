@@ -1,5 +1,8 @@
-## Hi there 👋
+### Hello there!
 
+<div style="width:100%;height:0;padding-bottom:54%;position:relative;"><iframe src="https://giphy.com/embed/3ornk57KwDXf81rjWM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/starwars-movie-star-wars-3ornk57KwDXf81rjWM"></a></p>
+
+<a href="https://twitter.com/ashdev_me"><img src="https://img.shields.io/twitter/follow/ashdev_me?label=Twitter&style=social" alt="Twitter"></a>
 <!--
 **divyanshu-vashishth/divyanshu-vashishth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
