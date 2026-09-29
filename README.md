@@ -1,6 +1,5 @@
 <img src="./hello_there.webp" alt='haha'/>
 
-<a href="https://twitter.com/ashdev_me"><img src="https://img.shields.io/twitter/follow/ashdev_me?label=Twitter&style=social" alt="Twitter"></a>
 <!--
 **divyanshu-vashishth/divyanshu-vashishth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
